@@ -1,0 +1,36 @@
+/* Sample CSS Code */
+
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Header style */
+h1 {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+/* Paragraph style */
+p {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+/* Button styling */
+button {
+  background-color: #28a745;
+  color:
+
+}
